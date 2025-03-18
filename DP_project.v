@@ -1,24 +1,4 @@
 `timescale 1ms / 1ms
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 02.11.2023 21:54:25
-// Design Name: 
-// Module Name: DP_project
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module DP_project(
     input [1:0] mode,
