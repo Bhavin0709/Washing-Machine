@@ -1,4 +1,4 @@
-`timescale 1ms / 1ms
+// `timescale 1ms / 1ms
 
 module DP_project(
     input [1:0] mode,
